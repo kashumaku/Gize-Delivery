@@ -16,11 +16,10 @@
         "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.kashumaku.GizeDelivery"
     },
-  
-    "plugins": [
-    ],
+    "plugins": [],
     "experiments": {
       "typedRoutes": true
     }
