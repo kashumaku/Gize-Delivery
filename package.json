@@ -1,6 +1,6 @@
 {
   "name": "gize-delivery",
-  "main": "expo-router/entry",
+  "main": "node_modules/expo/AppEntry.js",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
@@ -13,7 +13,6 @@
   "dependencies": {
     "@react-navigation/native": "^7.1.6",
     "expo": "~53.0.20",
-    "expo-router": "~5.1.4",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-native": "0.79.5",
